@@ -288,3 +288,5 @@ Text Domain: ashley
 /* Aaron Stuff */
 
 p, li, ul, ol, h1, h2, h3, h4, blockquote, div { font-size: 100% }
+h2, h3 { font-weight: bolder; margin-top: 2em }
+h1 { font-size: 120% }
